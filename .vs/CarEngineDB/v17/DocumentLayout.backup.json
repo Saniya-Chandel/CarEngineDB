@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MVC PROJECT\\CarEngineDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F016376-8A06-496F-9CE8-CC61057F68F0}|CarEngineDB\\CarEngineDB.csproj|e:\\mvc project\\carenginedb\\carenginedb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F016376-8A06-496F-9CE8-CC61057F68F0}|CarEngineDB\\CarEngineDB.csproj|solutionrelative:carenginedb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F016376-8A06-496F-9CE8-CC61057F68F0}|CarEngineDB\\CarEngineDB.csproj|e:\\mvc project\\carenginedb\\carenginedb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F016376-8A06-496F-9CE8-CC61057F68F0}|CarEngineDB\\CarEngineDB.csproj|solutionrelative:carenginedb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F016376-8A06-496F-9CE8-CC61057F68F0}|CarEngineDB\\CarEngineDB.csproj|e:\\mvc project\\carenginedb\\carenginedb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F016376-8A06-496F-9CE8-CC61057F68F0}|CarEngineDB\\CarEngineDB.csproj|solutionrelative:carenginedb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F016376-8A06-496F-9CE8-CC61057F68F0}|CarEngineDB\\CarEngineDB.csproj|e:\\mvc project\\carenginedb\\carenginedb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F016376-8A06-496F-9CE8-CC61057F68F0}|CarEngineDB\\CarEngineDB.csproj|solutionrelative:carenginedb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F016376-8A06-496F-9CE8-CC61057F68F0}|CarEngineDB\\CarEngineDB.csproj|e:\\mvc project\\carenginedb\\carenginedb\\views\\cars\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F016376-8A06-496F-9CE8-CC61057F68F0}|CarEngineDB\\CarEngineDB.csproj|solutionrelative:carenginedb\\views\\cars\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F016376-8A06-496F-9CE8-CC61057F68F0}|CarEngineDB\\CarEngineDB.csproj|e:\\mvc project\\carenginedb\\carenginedb\\controllers\\enginescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F016376-8A06-496F-9CE8-CC61057F68F0}|CarEngineDB\\CarEngineDB.csproj|solutionrelative:carenginedb\\controllers\\enginescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F016376-8A06-496F-9CE8-CC61057F68F0}|CarEngineDB\\CarEngineDB.csproj|e:\\mvc project\\carenginedb\\carenginedb\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F016376-8A06-496F-9CE8-CC61057F68F0}|CarEngineDB\\CarEngineDB.csproj|solutionrelative:carenginedb\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F016376-8A06-496F-9CE8-CC61057F68F0}|CarEngineDB\\CarEngineDB.csproj|e:\\mvc project\\carenginedb\\carenginedb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F016376-8A06-496F-9CE8-CC61057F68F0}|CarEngineDB\\CarEngineDB.csproj|solutionrelative:carenginedb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F016376-8A06-496F-9CE8-CC61057F68F0}|CarEngineDB\\CarEngineDB.csproj|e:\\mvc project\\carenginedb\\carenginedb\\carenginedb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7F016376-8A06-496F-9CE8-CC61057F68F0}|CarEngineDB\\CarEngineDB.csproj|solutionrelative:carenginedb\\carenginedb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F016376-8A06-496F-9CE8-CC61057F68F0}|CarEngineDB\\CarEngineDB.csproj|e:\\mvc project\\carenginedb\\carenginedb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7F016376-8A06-496F-9CE8-CC61057F68F0}|CarEngineDB\\CarEngineDB.csproj|solutionrelative:carenginedb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F016376-8A06-496F-9CE8-CC61057F68F0}|CarEngineDB\\CarEngineDB.csproj|e:\\mvc project\\carenginedb\\carenginedb\\models\\cardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F016376-8A06-496F-9CE8-CC61057F68F0}|CarEngineDB\\CarEngineDB.csproj|solutionrelative:carenginedb\\models\\cardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\MVC PROJECT\\CarEngineDB\\CarEngineDB\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "CarEngineDB\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\MVC PROJECT\\CarEngineDB\\CarEngineDB\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "CarEngineDB\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T10:31:51.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\MVC PROJECT\\CarEngineDB\\CarEngineDB\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CarEngineDB\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\MVC PROJECT\\CarEngineDB\\CarEngineDB\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CarEngineDB\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T10:31:38.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\MVC PROJECT\\CarEngineDB\\CarEngineDB\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CarEngineDB\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\MVC PROJECT\\CarEngineDB\\CarEngineDB\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "CarEngineDB\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T10:31:31.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\MVC PROJECT\\CarEngineDB\\CarEngineDB\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CarEngineDB\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\MVC PROJECT\\CarEngineDB\\CarEngineDB\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "CarEngineDB\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T10:31:21.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\MVC PROJECT\\CarEngineDB\\CarEngineDB\\Views\\Cars\\Create.cshtml",
+              "RelativeDocumentMoniker": "CarEngineDB\\Views\\Cars\\Create.cshtml",
+              "ToolTip": "E:\\MVC PROJECT\\CarEngineDB\\CarEngineDB\\Views\\Cars\\Create.cshtml",
+              "RelativeToolTip": "CarEngineDB\\Views\\Cars\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T10:31:05.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnginesController.cs",
+              "DocumentMoniker": "E:\\MVC PROJECT\\CarEngineDB\\CarEngineDB\\Controllers\\EnginesController.cs",
+              "RelativeDocumentMoniker": "CarEngineDB\\Controllers\\EnginesController.cs",
+              "ToolTip": "E:\\MVC PROJECT\\CarEngineDB\\CarEngineDB\\Controllers\\EnginesController.cs",
+              "RelativeToolTip": "CarEngineDB\\Controllers\\EnginesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T11:43:08.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarsController.cs",
+              "DocumentMoniker": "E:\\MVC PROJECT\\CarEngineDB\\CarEngineDB\\Controllers\\CarsController.cs",
+              "RelativeDocumentMoniker": "CarEngineDB\\Controllers\\CarsController.cs",
+              "ToolTip": "E:\\MVC PROJECT\\CarEngineDB\\CarEngineDB\\Controllers\\CarsController.cs",
+              "RelativeToolTip": "CarEngineDB\\Controllers\\CarsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T11:42:37.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CarDbContext.cs",
+              "DocumentMoniker": "E:\\MVC PROJECT\\CarEngineDB\\CarEngineDB\\Models\\CarDbContext.cs",
+              "RelativeDocumentMoniker": "CarEngineDB\\Models\\CarDbContext.cs",
+              "ToolTip": "E:\\MVC PROJECT\\CarEngineDB\\CarEngineDB\\Models\\CarDbContext.cs",
+              "RelativeToolTip": "CarEngineDB\\Models\\CarDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T11:39:46.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CarEngineDB.csproj",
+              "DocumentMoniker": "E:\\MVC PROJECT\\CarEngineDB\\CarEngineDB\\CarEngineDB.csproj",
+              "RelativeDocumentMoniker": "CarEngineDB\\CarEngineDB.csproj",
+              "ToolTip": "E:\\MVC PROJECT\\CarEngineDB\\CarEngineDB\\CarEngineDB.csproj",
+              "RelativeToolTip": "CarEngineDB\\CarEngineDB.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-26T11:38:18.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\MVC PROJECT\\CarEngineDB\\CarEngineDB\\Program.cs",
+              "RelativeDocumentMoniker": "CarEngineDB\\Program.cs",
+              "ToolTip": "E:\\MVC PROJECT\\CarEngineDB\\CarEngineDB\\Program.cs",
+              "RelativeToolTip": "CarEngineDB\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA0AAACOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T11:36:39.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\MVC PROJECT\\CarEngineDB\\CarEngineDB\\appsettings.json",
+              "RelativeDocumentMoniker": "CarEngineDB\\appsettings.json",
+              "ToolTip": "E:\\MVC PROJECT\\CarEngineDB\\CarEngineDB\\appsettings.json",
+              "RelativeToolTip": "CarEngineDB\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-26T11:35:37.276Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
